@@ -35,5 +35,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/cryonayes"><img src="https://img.shields.io/badge/-Ayberk%20Eser-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.twitter.com/cryonayes"><img src="https://img.shields.io/badge/-Ayberk%20Eser-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="mailto:cryonayes@gamil.com"><img src="https://img.shields.io/badge/-cryonayes@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:cryonayes@gmail.com"><img src="https://img.shields.io/badge/-cryonayes@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
