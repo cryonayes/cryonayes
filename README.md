@@ -5,10 +5,6 @@
 - 👍 &nbsp; Exploring new technologies and developing software solutions.
 - ⌨️  &nbsp; Interested in low-level programming and optimizing.
 - 🎓 &nbsp; Studying at @42Ecole.
-<p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"/>
-  <img src="https://badge42.herokuapp.com/api/stats/aeser" alt="aeser's stats"/>
-</p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
