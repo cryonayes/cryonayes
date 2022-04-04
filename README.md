@@ -8,18 +8,23 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![CPP](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+  ![C](https://img.shields.io/badge/-C-111111?style=flat&logo=c)
+  ![CPP](https://img.shields.io/badge/-C++-111111?style=flat&logo=cplusplus)
+  ![Go](https://img.shields.io/badge/-Go-111111?style=flat&logo=go)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-111111?style=flat&logo=kotlin)
+  ![Typescript](https://img.shields.io/badge/-Typescript-111111?style=flat&logo=typescript)
+  ![Python](https://img.shields.io/badge/-Python-111111?style=flat&logo=python)
+  ![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat&logo=next.js)
+  ![Arduino](https://img.shields.io/badge/-Arduino-111111?style=flat&logo=arduino)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-111111?style=flat&logo=docker)
+  ![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-111111?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+  ![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=ffffff)
+  ![VIM](https://img.shields.io/badge/-VIM-111111?style=flat&logo=vim&logoColor=00a646)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111111?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p align="center">
 <a href="https://github.com/cryonayes">
