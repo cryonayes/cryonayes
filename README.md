@@ -4,7 +4,7 @@
 
 - 👍 &nbsp; Exploring new technologies and developing software solutions.
 - ⌨️  &nbsp; Interested in low-level programming and optimizing.
-- 🎓 &nbsp; Studying at @42Ecole.
+- 🎓 &nbsp; Studying at 42 Ecole
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -28,15 +28,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111111?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p align="center">
-<a href="https://github.com/cryonayes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryonayes&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cryonayes&theme=radical&layout=compact&exclude_lang=java+r" />
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3rntgx5000609jnc3982t3s/stats?cursusId=21&coalitionId=undefined" alt="aeser's 42 stats" /></a><br>
+<a href="https://github.com/cryonayes"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryonayes&show_icons=true&theme=radical" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cryonayes&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/cryonayes"><img src="https://img.shields.io/badge/-Ayberk%20Eser-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.twitter.com/cryonayes"><img src="https://img.shields.io/badge/-Ayberk%20Eser-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="mailto:cryonayes@gmail.com"><img src="https://img.shields.io/badge/-cryonayes@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cryonayes"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.twitter.com/cryonayes"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:cryonayes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
