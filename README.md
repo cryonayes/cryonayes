@@ -8,6 +8,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Rust](https://img.shields.io/badge/-Rust-111111?style=flat&logo=rust)
   ![C](https://img.shields.io/badge/-C-111111?style=flat&logo=c)
   ![CPP](https://img.shields.io/badge/-C++-111111?style=flat&logo=cplusplus)
   ![Go](https://img.shields.io/badge/-Go-111111?style=flat&logo=go)
