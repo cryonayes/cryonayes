@@ -28,7 +28,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111111?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3rntgx5000609jnc3982t3s/stats?cursusId=21&coalitionId=undefined" alt="aeser's 42 stats" /></a><br>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3rntgx5000609jnc3982t3s/stats?cursusId=21&coalitionId=233" alt="aeser's 42 stats" /></a><br>
 <a href="https://github.com/cryonayes"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryonayes&show_icons=true&theme=radical" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cryonayes&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
