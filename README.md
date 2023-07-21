@@ -14,6 +14,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-111111?style=for-the-badge&logo=kotlin)
 ![Typescript](https://img.shields.io/badge/-Typescript-111111?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-111111?style=for-the-badge&logo=python)
+
 ![Unity](https://img.shields.io/badge/-Unity-111111?style=for-the-badge&logo=Unity)
 ![Android](https://img.shields.io/badge/-Android-111111?style=for-the-badge&logo=android)
 ![ESP32](https://img.shields.io/badge/-ESP32-111111?style=for-the-badge&logo=espressif)
