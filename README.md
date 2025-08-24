@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-- 👨🏻‍💻 &nbsp; Game Server Engineer @PanteonGames
+- 👨🏻‍💻 &nbsp; Game Developer @PanteonGames
 - 🎓 &nbsp; Studied at 42 Ecole
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
